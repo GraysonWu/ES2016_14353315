@@ -92,6 +92,7 @@ The distributed operation layer (DOL) is a software development framework to pro
   
     * `$	cd ../dol`
 2. **Edit build_zip.xml**
+  
   Find the sentence below and change *YYY* to *pwd* that we marked before.
   
     * `<property name="systemc.inc" value="YYY/include"/>`
